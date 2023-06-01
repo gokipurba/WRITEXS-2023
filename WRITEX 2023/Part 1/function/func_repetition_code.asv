@@ -1,0 +1,3 @@
+function c = func_repetition_code(u, R)
+for ii=1
+end
