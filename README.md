@@ -1,5 +1,7 @@
 
 # README - Wireless Communication using MATLAB WRITEXS-2023
+Thanks to AICOMS WRITEXS 2023.
+
 This repository contains materials related to the topic of wireless communication using MATLAB. It is divided into three parts, each consisting of MATLAB programs that can be utilized for educational purposes.
 
 Usage and Educational Purposes
